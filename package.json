@@ -1,0 +1,22 @@
+{
+  "name": "test-arduino",
+  "version": "1.0.0",
+  "description": "testing arduino",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimabush/test-arduino.git"
+  },
+  "keywords": [
+    "arduino"
+  ],
+  "author": "Dmytro Bushtyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimabush/test-arduino/issues"
+  },
+  "homepage": "https://github.com/dimabush/test-arduino#readme"
+}
