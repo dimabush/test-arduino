@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/dimabush/test-arduino/issues"
   },
-  "homepage": "https://github.com/dimabush/test-arduino#readme"
+  "homepage": "https://github.com/dimabush/test-arduino#readme",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "johnny-five": "^0.10.6"
+  }
 }
